@@ -76,7 +76,7 @@ p{
     padding: 5px 10px;
 }
 
-.prep-time h3 {
+.prep-time h2 {
     font-size: var(--size-small);
     color: var(--rose800);
     font-family: var(--font-outfit);
