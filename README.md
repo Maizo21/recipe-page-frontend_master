@@ -26,8 +26,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [](https://github.com/Maizo21/recipe-page-frontend_master)
-- Live Site URL: [](https://maizo21.github.io/recipe-page-frontend_master/)
+- Solution URL: [https://github.com/Maizo21/recipe-page-frontend_master](https://github.com/Maizo21/recipe-page-frontend_master)
+- Live Site URL: [https://maizo21.github.io/recipe-page-frontend_master](https://maizo21.github.io/recipe-page-frontend_master)
 
 ## My process
 
@@ -40,5 +40,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [](https://github.com/Maizo21)
+- Website - [https://github.com/Maizo21](https://github.com/Maizo21)
 - Frontend Mentor - [@Maizo21](https://www.frontendmentor.io/profile/@Maizo21)
