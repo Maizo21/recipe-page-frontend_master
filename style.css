@@ -22,10 +22,10 @@
     --rose800: hsl(332, 51%, 32%);
     --rose50: hsl(330, 100%, 98%);
 
-    --size-normal: 16px;
-    --size-small: 14px;
-    --size-large: 18px;
-    --size-xlarge: 24px;
+    --size-normal: 1rem;
+    --size-small: 0.875rem;
+    --size-large: 1.125rem;
+    --size-xlarge: 1.5rem;
 
     --font-young: 'YoungSerif', serif;
     --font-outfit: 'Outfit', sans-serif;
@@ -53,18 +53,18 @@ h2 {
 }
 
 article {
-    margin: 80px auto;
+    margin: 5rem auto;
     max-width: 550px;
-    padding: 20px 30px;
+    padding: 1.25rem 1.875rem;
     background-color: var(--white);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 12px;
+    box-shadow: 0 0 0.625rem rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem;
 }
 
 img {
     max-width: 100%;
     height: auto;
-    border-radius: 12px;
+    border-radius: 0.75rem;
 }
 
 p{
@@ -73,7 +73,7 @@ p{
 
 .prep-time {
     background-color: var(--rose50);
-    padding: 5px 10px;
+    padding: 5px 0.625rem;
 }
 
 .prep-time h2 {
@@ -84,7 +84,7 @@ p{
 }
 
 .prep-time ul {
-    padding-left: 20px;
+    padding-left: 1.25rem;
 }
 
 .prep-time ul li {
@@ -98,9 +98,9 @@ p{
 }
 
 .block-detail {
-    margin: 20px auto;
+    margin: 1.25rem auto;
     border-bottom: 1px solid var(--stone100);
-    padding-bottom: 10px;
+    padding-bottom: 0.625rem;
 }
 
 .block-detail:last-child {
@@ -124,7 +124,7 @@ p{
 }
 
 .block-detail ol{
-    padding-left: 20px;
+    padding-left: 1.25rem;
 }
 
 .block-detail ul li{
@@ -132,7 +132,7 @@ p{
 }
 
 .block-detail ol li{
-    padding-left: 10px;
+    padding-left: 0.625rem;
 }
 
 .block-detail ul li::marker,
@@ -152,7 +152,7 @@ p{
 .block-detail table tr{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    padding: 10px 25px ;
+    padding: 0.625rem 1.563rem;
     text-align: left;
     border-bottom: 1px solid var(--stone100);
 }
@@ -174,8 +174,8 @@ p{
     }
 
     article{
-        margin: 25px auto;
+        margin: 1.563rem auto;
         border-radius: 0;
-        box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.4);
+        box-shadow: 0px 3px 0.625rem rgba(0, 0, 0, 0.4);
     }
 }
